@@ -1,6 +1,6 @@
 Welcome to your new dbt project!
 ### For local dbt setup
-(setup)[https://docs.getdbt.com/tutorial/setting-up]
+[setup](https://docs.getdbt.com/tutorial/setting-up)
 
 
 ### Using the starter project
